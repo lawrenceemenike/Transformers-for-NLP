@@ -4,7 +4,7 @@
 This repository contains my personal coding practice based on the book "Transformers for Natural Language Processing, Second Edition" by Denis Rothman. Each chapter’s code is implemented, explored, and annotated for deeper understanding.
 
 ## About the Book
-"Transformers for Natural Language Processing" is a comprehensive guide to building, training, and fine-tuning deep neural network architectures for NLP tasks. It includes a bonus chapter on ChatGPT and GPT-4, with a foreword by Antonio Gulli, Engineering Director at Google.
+Transformers for Natural Language Processing" is a comprehensive guide to building, training, and fine-tuning deep neural network architectures for NLP tasks. It includes a bonus chapter on ChatGPT and GPT-4, with a foreword by Antonio Gulli, Engineering Director at Google.
 
 ## Repository Structure
 Each folder corresponds to a chapter in the book and contains:
